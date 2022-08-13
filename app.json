@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "lingocards",
+    "slug": "lingocards",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.majestic.lingocards"
+    },
+    "android": {
+      "package": "com.majestic.lingocards",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "clientId": "554160733577-6651gmlbpadb52tvbv62010nf79ok8is.apps.googleusercontent.com",
+      "iosClientId": "554160733577-v979srseula768ptok2fholrlig2bf08.apps.googleusercontent.com",
+      "androidClientId": "554160733577-1rig3a9in8ia7v95dlmjeg0vgghng18g.apps.googleusercontent.com"
+    }
+  }
+
+}
